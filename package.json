@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/SamhammerAG/ckeditor5-simple-button-plugin#readme",
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "~12.2.1",
-    "@ckeditor/ckeditor5-ui": "~13.0.2"
+    "@ckeditor/ckeditor5-core": "12.2.1",
+    "@ckeditor/ckeditor5-ui": "13.0.2"
   },
   "husky": {
     "hooks": {
